@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+*.db
+*.db-journal
+.pytest_cache/
+.mypy_cache/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+bot.log
+
+# Local notes
+_docs/
+TODO.txt
